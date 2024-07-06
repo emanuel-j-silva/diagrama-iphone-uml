@@ -1,7 +1,7 @@
 # diagrama-iphone-uml
 Exercício da Trilha Java POO do Bootcamp Santander
 
-classDiagram
+    classDiagram
     class ReprodutorMusical {
         - List musicas: Musica;
         +tocar()
